@@ -14,6 +14,6 @@ public class Q12 {
            } 
         }
         
-        System.out.println("гу╟Х : "+sum);
+        System.out.println(sum);
 	}
 }
