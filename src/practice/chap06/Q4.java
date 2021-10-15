@@ -1,0 +1,1 @@
+// 다른 패키지 app.GraphicEditor, base.Shape, derived.Circle 참고
